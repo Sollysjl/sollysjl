@@ -1,5 +1,5 @@
-## Hellow World!
-     Meu nome é Jefferson L•pes!
+# Hellow World!
+     Meu nome é # Jefferson L•pes!
 
 - 🔭 Eu trabalho como Técnico em Enfermagem.
 - 🌱 Estou Estudando na @rocketseat Explore.
@@ -10,7 +10,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sollysjl&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sollysjl&layout=compact&langs_count=7&theme=dark"/>
 </div>
-##
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Sollys-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Sollys-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
