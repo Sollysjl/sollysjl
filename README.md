@@ -1,5 +1,5 @@
-# Hellow World!
-# Meu nome é Jefferson L•pes!
+
+# Olá 👋 Sou Jefferson L•pes!
 
 - 🔭 Eu trabalho como Técnico em Enfermagem.
 - 🌱 Estou Estudando na @rocketseat Explore.
